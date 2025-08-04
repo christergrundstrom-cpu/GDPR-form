@@ -1,0 +1,1 @@
+print('GDPR Form Server Startad')
